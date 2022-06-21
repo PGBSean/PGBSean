@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pGbSean
 - 👀 I’m interested in coding, testing beta builds, etc..
-- 🌱 I’m currently learning on testing Dev builds of Windows
+- 🌱 I’m currently learning on testing Beta builds of Windows
 - 💞️ I’m looking to collaborate on you
 - 📫 no email for you 
 
