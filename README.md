@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @pGbSean
-- 👀 I’m interested in coding, testing beta builds, etc..
-- 🌱 I’m currently learning on testing Beta builds of Windows
-- 💞️ I’m looking to collaborate on you
-- 📫 no email for you 
+**I'm PGBSean**
+Welcome to my profile!
+Check out my pinned repos below 😇
 
 <!---
 pGbSean/pGbSean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
