@@ -1,8 +1,6 @@
-**I'm PGBSean**
-Welcome to my profile!
-Check out my pinned repos below 😇
+A **13 y/o** likes to code and building.
 
-<!---
-pGbSean/pGbSean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Lives in **Vietnam**, born in **United States of America**
+- Building crDroid for **Google Pixel 4a**
+- Testing **Windows** builds
+- Question...?
