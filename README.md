@@ -25,5 +25,5 @@ Tinkering, Drag-n-Drop thingy idk
 
 😄 Pronouns: he/him
 
-⚡️ Fun fact: I slayyed
+⚡️ Fun fact: what
 
