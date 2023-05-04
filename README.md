@@ -2,3 +2,5 @@
 
 
 # Hi! I'm sean.pgb, and I make fun stuff for fun (yk what i'm talking abt)
+- I make Hackintosh, Android, and other upcoming projects
+> for fun!
