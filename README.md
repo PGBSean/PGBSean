@@ -5,10 +5,6 @@
 + Due to personal experience, I can only maintain 3 EFIs max.
 
 # Upcoming updates 🔁
-+ EFIs will transition from Github Releases to directly in the source of the repository
-> This way it is easier for people to push pull requests directly to the EFI without downloading it from the Releases tab
-
-> Apply to all EFIs
 + Pull requests will open for everyone to collaborate
 
 
