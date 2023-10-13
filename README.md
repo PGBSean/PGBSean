@@ -1,5 +1,3 @@
-![REBORN FRAMES](https://github.com/PGBSean/PGBSean/assets/97381104/5b6cb00a-40b9-469d-9be0-1d17c5b19326)
-
 # Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=PGBSean&show_icons=true&count_private=true&include_all_commits=true&title_color=FAF9F6&text_color=FAF9F6&icon_color=FAF9F6&bg_color=18191A&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
