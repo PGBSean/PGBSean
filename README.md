@@ -6,7 +6,8 @@
 + Due to personal experience, I can only maintain 3 EFIs max.
 
 # Upcoming updates 🔁
-+ Pull requests will open for everyone to collaborate
++ ✨ **Exclusive** changes to Latitude-3580-OpenCore:
+    + Build releases to switch from full packages to config.plist file only. You can use OCAT to build the EFI from the plist directly.
 
 
 
